@@ -24,3 +24,5 @@ Add an image on my own:
 
 Note that without the ./ to denote current working directory works also. 
 
+Also note that to get the "Build" tab, we need to restart RStudio. 
+
