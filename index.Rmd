@@ -12,3 +12,15 @@ I like Google. Note that the specific syntax for making something appear as a li
 Example: I like [google](https://www.google.com). 
 
 I like [to look for code on the internet](https://wwww.google.com). 
+
+### Common content - embedding images
+
+Note: Jeff usually makes a folder that will contain all the images we want to put online. 
+Also, this is probably the only case where he messes with HTML rather than add images using the R markdown. 
+
+Add an image on my own: 
+
+<img src="./images/mem_day.jpg" style="width:75%"> 
+
+Note that without the ./ to denote current working directory works also. 
+
