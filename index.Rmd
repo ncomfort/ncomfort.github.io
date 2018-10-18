@@ -5,3 +5,10 @@ title: "Holy cow!"
 ### I have a webpage!
 
 And I can put all kinds of stuff on it!
+
+### Add some links
+
+I like Google. Note that the specific syntax for making something appear as a link is [ ] brackets.
+Example: I like [google](https://www.google.com). 
+
+I like [to look for code on the internet](https://wwww.google.com). 
