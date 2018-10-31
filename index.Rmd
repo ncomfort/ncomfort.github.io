@@ -25,18 +25,27 @@ My research interests are:
 
 ## Oh, and I'm a dog mom
 
-As if life wasn't hectic enough, I have my two dogs here with me in NYC. 
+As if life wasn't hectic enough, I have my two dogs here with me in NYC:
 
-Note: Jeff usually makes a folder that will contain all the images we want to put online. 
-Also, this is probably the only case where he messes with HTML rather than add images using the R markdown. 
+<img src="./images/IMG_3403.jpg" style="width:75%">
 
-Add an image on my own: 
+<img src="./images/IMG_5323.jpg" style="width:75%">
 
-<img src="./images/mem_day.jpg" style="width:75%"> 
+<img src="./images/IMG_2828.jpg" style="width:75%">
 
-Note that without the ./ to denote current working directory works also. 
+This one is named Andy:
+
+<img src="./images/IMG_7124.jpg" style="width:75%">
+
+And this is his brother, Rocco: 
+
+<img src="./images/IMG_5403.jpg" style="width:75%">
+
+<img src="./images/IMG_4590.jpg" style="width:75%">
 
 ## Add me on social media and follow my research
+
+Can I add buttons for these instead??? Like the email and Github in top right corner? 
 
 [Linkedin](https://www.linkedin.com/in/nicole-comfort/) 
 
