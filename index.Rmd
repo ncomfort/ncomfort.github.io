@@ -1,19 +1,22 @@
 ---
-title: "Holy cow!"
+title: Nicole Comfort
+subtitle: PhD Student | Millenial | Dog Mom
 ---
 
-### I have a webpage!
+## Hi, I'm Nicole
 
-And I can put all kinds of stuff on it!
+My name is Nicole Comfort. I was born and raised in Middlesex County in Massachusetts. In 2015 I graduated from Northeastern University (Boston, MA) with a B.S. in Behavioral Neuroscience. 
 
-### Add some links
+## I'm a PhD student
+
+Add research interests.
 
 I like Google. Note that the specific syntax for making something appear as a link is [ ] brackets.
 Example: I like [google](https://www.google.com). 
 
 I like [to look for code on the internet](https://wwww.google.com). 
 
-### Common content - embedding images
+## Oh, and I'm a dog mom
 
 Note: Jeff usually makes a folder that will contain all the images we want to put online. 
 Also, this is probably the only case where he messes with HTML rather than add images using the R markdown. 
@@ -24,5 +27,16 @@ Add an image on my own:
 
 Note that without the ./ to denote current working directory works also. 
 
-Also note that to get the "Build" tab, we need to restart RStudio. 
+## Add me on social media and follow my research
 
+[Linkedin](https://www.linkedin.com/in/nicole-comfort/) 
+
+[ResearchGate](https://www.researchgate.net/profile/Nicole_Comfort)
+
+[My NCBI Bibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&direction=ascending) 
+
+[Github](https://github.com/ncomfort) 
+
+## Contact me
+
+Email: add my email link 
