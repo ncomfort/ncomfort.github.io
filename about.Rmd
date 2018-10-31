@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-### About this site
+## About this site
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
-
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+This site was created using R (version 3.5.1) and is a requirement for a [Data Science class](http://p8105.com/index.html) offered at Columbia University through the Biostatistics Department. For questions about content/source code, please contact me. 
