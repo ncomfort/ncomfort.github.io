@@ -27,16 +27,6 @@ My research interests are:
 
 As if life wasn't hectic enough, I have my two dogs here with me in NYC:
 
-<p align="center">
-  <img src="./images/IMG_3403.jpg" style="width:25%"/>
-</p>
-
-<img align="center" src="./images/IMG_3403.jpg" style="width:25%" style=:transform:rotate(90deg)">
-
-<img src="./images/IMG_5323.jpg" style="width:25%" style=:transform:rotate(90deg)">
-
-<img src="./images/IMG_2828.jpg" style="width:25%" rotate="90">
-
 This one is named Andy:
 
 <img src="./images/IMG_7124.jpg" style="width:25%">
@@ -45,18 +35,9 @@ And this is his brother, Rocco:
 
 <img src="./images/IMG_5403.jpg" style="width:25%">
 
-## Add me on social media and follow my research
-
-Can I add buttons for these instead??? Like the email and Github in top right corner? 
-
-[Linkedin](https://www.linkedin.com/in/nicole-comfort/) 
-
-[ResearchGate](https://www.researchgate.net/profile/Nicole_Comfort)
+## Follow my research and contributions to science
 
 [My NCBI Bibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&direction=ascending) 
 
 [Publons](publons.com/a/1543846/)
 
-## Contact me
-
-Email: add my email link 

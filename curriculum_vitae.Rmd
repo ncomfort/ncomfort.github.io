@@ -2,7 +2,6 @@
 title: "Curriculum Vitae"
 ---
 
-
 ```{r echo = FALSE}
 
 knitr::include_graphics(path = "Comfort_CV.pdf")
