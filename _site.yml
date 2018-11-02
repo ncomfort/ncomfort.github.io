@@ -11,6 +11,12 @@ navbar:
       href: mailto:<nicole.comfort@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/ncomfort/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/nicole-comfort/
+    - icon: fa-book fa-lg
+      href: https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&direction=ascending
 output:
   html_document:
     theme: cosmo 
+    
+    <p>Last edited November 2, 2018.</p>

@@ -2,4 +2,12 @@
 title: "Curriculum Vitae"
 ---
 
-## Test if this worked 
+
+```{r echo = FALSE}
+
+knitr::include_graphics(path = "Comfort_CV.pdf")
+
+```
+
+
+
