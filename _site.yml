@@ -13,10 +13,10 @@ navbar:
       href: http://github.com/ncomfort/
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/nicole-comfort/
-    - icon: fa-researchgate
+    - icon: fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Nicole_Comfort
-    - icon: fa-books
+    - icon: fa-book-reader fa-lg
       href: https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&direction=ascending
 output:
   html_document:
-    theme: cosmo 
+    theme: sandstone
