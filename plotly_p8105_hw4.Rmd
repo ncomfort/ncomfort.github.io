@@ -20,10 +20,25 @@ library(plotly)
 
 ```
 
+Create a flexdashboard using plotly for that includes at least three distinct plot types (e.g. scatterplots, line plots, bar plots, box plots, etc.). Use one of the following datasets, and load from the p8105.datasets package:
 
-```{r import data}
 
+These datasets are large; you may want / need to filter or randomly sample from the complete dataset to ensure a reasonable product.
 
+The code below imports NY NOAA data. 
+
+```{r import and filter data}
+
+library(p8105.datasets)
+data("ny_noaa")
+
+set.seed(1)
+
+# restricting to only complete cases and then sampling from there to make the dataset smaller for computational ease
+ny_noaa = 
+  ny_noaa %>% 
+  filter(complete.cases(.)) %>% 
+  sample_n(5000)
 
 ```
 
