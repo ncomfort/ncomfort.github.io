@@ -7,6 +7,8 @@ navbar:
       href: curriculum_vitae.html
     - text: "About"
       href: about.html
+    - text: "NYC Restaurant Inspection Data"
+      href: flex_dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<nicole.comfort@columbia.edu>
     - icon: fa-github fa-lg
