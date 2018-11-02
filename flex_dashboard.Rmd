@@ -40,7 +40,7 @@ rest_inspec = mutate(rest_inspec, year = year(rest_inspec$inspection_date)) %>%
 Column {data-width=550}
 -----------------------------------------------------------------------
 
-### Number of Critical Violations By Borough
+### Number of Critical and Non-Critical Violations By Borough
 
 ```{r}
 
@@ -51,14 +51,13 @@ x <- list(
   title = "Borough") 
 
 y <- list(
-  title = "Number of Critical Violations") 
+  title = "Number of Violations") 
 
 # plot critical violations for each boro 
 rest_inspec %>% 
   group_by(boro, critical_flag) %>% 
-  summarize(n = n()) %>% 
-  filter(critical_flag == "Critical") %>% 
-  plot_ly(x = ~boro, y = ~n, color = ~boro, type = "bar") %>% 
+  summarize(n = n()) %>%
+  plot_ly(x = ~boro, y = ~n, color = ~critical_flag, type = "scatter") %>% 
   ungroup() %>% 
   layout(xaxis = x, yaxis = y)
 
