@@ -44,6 +44,8 @@ Column {data-width=550}
 
 ```{r}
 
+# turn into a boxplot 
+
 # axis labels 
 x <- list(
   title = "Borough") 
