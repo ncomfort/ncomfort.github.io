@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Publications"
       href: projects.html
-    - icon: ai-cv ai-lg
+    - text: "CV"
       href: "CV/Comfort_CV.pdf"
       external: true
     - text: "Baccarelli Lab"
