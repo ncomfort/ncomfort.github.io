@@ -25,6 +25,8 @@ navbar:
       href: https://twitter.com/n_comfort 
     - icon: ai-publons ai-lg
       href: https://publons.com/researcher/1543846/nicole-comfort/ 
+    - text: "Pet Portraits"
+      href: paintings.html
 
 output:
   html_document:
