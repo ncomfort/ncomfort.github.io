@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -72,9 +71,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,6 +94,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -113,7 +112,6 @@ body {
   padding-top: 66px;
   margin-top: -66px;
 }
-
 .section h2 {
   padding-top: 66px;
   margin-top: -66px;
@@ -133,6 +131,43 @@ body {
 .section h6 {
   padding-top: 66px;
   margin-top: -66px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,19 +189,74 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -187,29 +277,32 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="curriculum_vitae.html">Curriculum vitae</a>
+  <a href="projects.html">Publications</a>
 </li>
 <li>
-  <a href="about.html">About</a>
-</li>
-<li>
-  <a href="flex_dashboard.html">NYC Restaurant Inspection Data</a>
-</li>
-<li>
-  <a href="mailto:&lt;nicole.comfort@columbia.edu&gt;">
-    <span class="fa fa-envelope fa-lg"></span>
+  <a href="CV/main_gibson.pdf">
+    <span class="ai ai-cv ai-lg"></span>
      
   </a>
 </li>
 <li>
-  <a href="http://github.com/ncomfort/">
+  <a href="https://www.mailman.columbia.edu/research/laboratory-precision-environmental-biosciences">Baccarelli Lab</a>
+</li>
+<li>
+  <a href="mailto:&lt;nicole.comfort@columbia.edu&gt;">
+    <span class="fa fa-envelope-o fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/ncomfort">
     <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://www.linkedin.com/in/nicole-comfort/">
-    <span class="fa fa-linkedin"></span>
+  <a href="https://scholar.google.com/citations?user=kAjf6OsAAAAJ">
+    <span class="ai ai-google-scholar ai-lg"></span>
      
   </a>
 </li>
@@ -220,8 +313,14 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&amp;direction=ascending">
-    <span class="fa fa-book-reader fa-lg"></span>
+  <a href="https://www.linkedin.com/in/nicole-comfort/">
+    <span class="fa fa-linkedin-square fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/n_comfort">
+    <span class="fa fa-linkedin-square fa-lg"></span>
      
   </a>
 </li>
@@ -235,39 +334,37 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">Nicole Comfort</h1>
-<h3 class="subtitle"><em>PhD Student | Millenial | Dog Mom</em></h3>
 
 </div>
 
 
-<div id="hi-im-nicole" class="section level2">
-<h2>Hi, I’m Nicole</h2>
-<p>My name is Nicole Comfort. I was born and raised in Middlesex County in Massachusetts and so am an obnoxious New England sports fan by default (Go Sox!). If I’m not wearing Boston sports T-shirts, you’ll find me wearing some free swag I got in college. In 2015 I graduated from Northeastern University (Boston, MA) with a B.S. in Behavioral Neuroscience.</p>
-<p>I come from a big, loud family and like to visit them as much as I can!</p>
-<p>On the first day of fall this year, I got engaged to my best friend and boyfriend of ten years. I must say, wedding planning is fun but awfully distracting from school and research!</p>
-<p><img src="images/IMG_0062.jpg" style="width:25%"></p>
+<p><link rel="stylesheet" href="styles.css" type="text/css"> <link rel="stylesheet" href="academicons-1.8.6/css/academicons.min.css"/></p>
+<p><img src="images/fixed.gif" style="width:40%; border:10px solid #E95420" ALIGN = "right" HSPACE="75" VSPACE="25" /></p>
+<div id="phd-candidate" class="section level3">
+<h3>PhD Candidate</h3>
 </div>
-<div id="im-a-phd-student" class="section level2">
-<h2>I’m a PhD student</h2>
-<p>That’s right, I’m (still) in school. I’m a third year PhD student at Columbia University studying Environmental Health Science.</p>
-<p>I’m interested in researching the impact of environmental pollutants and toxicants on the brain and corresponding neurological and behavioral outcomes. For example, I’m interested in the potential contribution to neurodevelopmental and neurodegenerative disorders such as autism and amyotrophic lateral sclerosis and the mechanisms by which exposures cause disease.</p>
+<div id="environmental-health-sciences" class="section level3">
+<h3>Environmental Health Sciences</h3>
+<div id="mailman-school-of-public-health" class="section level4">
+<h4>Mailman School of Public Health</h4>
 </div>
-<div id="oh-and-im-a-dog-mom" class="section level2">
-<h2>Oh, and I’m a dog mom</h2>
-<p>As if life wasn’t hectic enough, I have my two dogs here with me in NYC:</p>
-<p>This one is named Andy:</p>
-<p><img src="images/IMG_7124.JPG" style="width:25%"></p>
-<p>And this is his brother, Rocco:</p>
-<p><img src="images/IMG_5403.JPG" style="width:25%"></p>
+<div id="columbia-university" class="section level4">
+<h4>Columbia University</h4>
+<p><br></p>
+<p>Nicole received a BS in neuroscience from <a href="https://cos.northeastern.edu/">Northeastern University</a> in 2015. She is currently working at the <a href="https://www.mailman.columbia.edu/research/laboratory-precision-environmental-health">Laboratory of Precision Environmental Health</a> under the mentorship of Dr. <a href="https://www.mailman.columbia.edu/people/our-faculty/ab4303">Andrea Baccarelli</a> to study extracellular vesicles as biomarkers of environmental exposures and disease.</p>
+<p>Her research generally involves the analysis of RNA-sequencing data. Recent projects have focused on a longitudinal transcriptomic characterization of aging sciatic nerves in sarcopenia and on plasma extracellular vesicle microRNA as biomarkers of cognitive decline in a cohort of elderly men in Boston, MA.</p>
+<p>In her spare time, Nicole enjoys walking her two dogs, playing video and board games, traveling, dining out, and painting. You can check out some of her commissioned pet portraits here.</p>
+<p><br> <br></p>
 </div>
-<div id="follow-my-research-and-contributions-to-science" class="section level2">
-<h2>Follow my research and contributions to science</h2>
+<div id="contact-information" class="section level4">
+<h4>Contact Information</h4>
+<p>Nicole Comfort <br> <a href="https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs">Department of Environmental Health Sciences</a> <br> <a href="https://www.mailman.columbia.edu/">Columbia Mailman School of Public Health</a> <br> 722 West 168th Street <br> New York, New York 10032 <br> Email: <a href="mailto:nicole.comfort@columbia.edu" class="email">nicole.comfort@columbia.edu</a></p>
+</div>
+<div id="follow-my-research-and-contributions-to-science" class="section level4">
+<h4>Follow my research and contributions to science</h4>
 <p><a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&amp;direction=ascending">My NCBI Bibliography</a></p>
 <p><a href="publons.com/a/1543846/">Publons</a></p>
 </div>
-<div id="other-interests" class="section level2">
-<h2>Other Interests</h2>
-<p>Acrylic and watercolor painting, international travel, long-distance running, hiking, playing classical flute and piano, activism and volunteering, gardening</p>
 </div>
 
 
@@ -287,6 +384,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
