@@ -6,7 +6,7 @@ navbar:
     - text: "Publications"
       href: projects.html
     - icon: ai-cv ai-lg
-      href: "CV/main_gibson.pdf"
+      href: "CV/Comfort_CV.pdf"
       external: true
     - text: "Baccarelli Lab"
       href: https://www.mailman.columbia.edu/research/laboratory-precision-environmental-biosciences
@@ -17,7 +17,7 @@ navbar:
       href: https://github.com/ncomfort
     - icon: ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=kAjf6OsAAAAJ
-    - icon: fa-researchgate fa-lg
+    - icon: ai-researchgate ai-lg
       href: https://www.researchgate.net/profile/Nicole_Comfort
     - icon: fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/nicole-comfort/ 
