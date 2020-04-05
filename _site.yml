@@ -21,7 +21,7 @@ navbar:
       href: https://www.researchgate.net/profile/Nicole_Comfort
     - icon: fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/nicole-comfort/ 
-    - icon: fa-linkedin-square fa-lg
+    - icon: fa-twitter fa-lg
       href: https://twitter.com/n_comfort 
 
 output:
