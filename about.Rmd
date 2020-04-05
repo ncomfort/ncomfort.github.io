@@ -4,10 +4,6 @@ title: "About"
 
 ## About this site
 
-This site was created using R (version 3.5.1) and is a requirement for a [Data Science class](http://p8105.com/index.html) offered at Columbia University through the Biostatistics Department.
+This site was created using R markdown. 
 
-The answer for **Problem 2** can be accessed by clicking the "NYC Restaurant Inspection Data" tab in the site navigation bar. 
-
-For questions about content/source code, please contact me. 
-
-This site was last updated on November 2, 2018. 
+This site was last updated on April 5, 2020. 

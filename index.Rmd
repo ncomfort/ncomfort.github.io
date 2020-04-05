@@ -1,43 +1,45 @@
 ---
-title: Nicole Comfort
-subtitle: PhD Student | Millenial | Dog Mom
+title: "Nicole Comfort"
 ---
 
-## Hi, I'm Nicole
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicons-1.8.6/css/academicons.min.css"/>
 
-My name is Nicole Comfort. I was born and raised in Middlesex County in Massachusetts and so am an obnoxious New England sports fan by default (Go Sox!). If I'm not wearing Boston sports T-shirts, you'll find me wearing some free swag I got in college. In 2015 I graduated from Northeastern University (Boston, MA) with a B.S. in Behavioral Neuroscience. 
+<img src="images/fixed.gif" style="width:40%; border:10px solid #E95420" ALIGN = "right" HSPACE="75" VSPACE="25" />
 
-I come from a big, loud family and like to visit them as much as I can! 
+### PhD Candidate
+### Environmental Health Sciences
+#### Mailman School of Public Health
+#### Columbia University
 
-On the first day of fall this year, I got engaged to my best friend and boyfriend of ten years. I must say, wedding planning is fun but awfully distracting from school and research! 
+<br> 
 
-<img src="./images/IMG_0062.jpg" style="width:25%">
+Nicole received a BS in neuroscience from [Northeastern University](https://cos.northeastern.edu/) in 2015. She is currently working at the [Laboratory of Precision Environmental Health](https://www.mailman.columbia.edu/research/laboratory-precision-environmental-health) under the mentorship of Dr. [Andrea Baccarelli](https://www.mailman.columbia.edu/people/our-faculty/ab4303) to study extracellular vesicles as biomarkers of environmental exposures and disease.
 
-## I'm a PhD student
+Her research generally involves the analysis of RNA-sequencing data. Recent projects have focused on a longitudinal transcriptomic characterization of aging sciatic nerves in sarcopenia and on plasma extracellular vesicle microRNA as biomarkers of cognitive decline in a cohort of elderly men in Boston, MA. 
 
-That's right, I'm (still) in school. I'm a third year PhD student at Columbia University studying Environmental Health Science. 
+In her spare time, Nicole enjoys walking her two dogs, playing video and board games, traveling, dining out, and painting. You can check out some of her commissioned pet portraits here. 
 
-I'm interested in researching the impact of environmental pollutants and toxicants on the brain and corresponding neurological and behavioral outcomes. For example, I'm interested in the potential contribution to neurodevelopmental and neurodegenerative disorders such as autism and amyotrophic lateral sclerosis and the mechanisms by which exposures cause disease.
+<br>
+<br>
 
-## Oh, and I'm a dog mom
+#### Contact Information
 
-As if life wasn't hectic enough, I have my two dogs here with me in NYC:
+Nicole Comfort
+<br>
+[Department of Environmental Health Sciences](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs)
+<br>
+[Columbia Mailman School of Public Health](https://www.mailman.columbia.edu/)
+<br>
+722 West 168th Street
+<br>
+New York, New York 10032
+<br>
+Email: nicole.comfort@columbia.edu
 
-This one is named Andy:
 
-<img src="./images/IMG_7124.jpg" style="width:25%">
-
-And this is his brother, Rocco: 
-
-<img src="./images/IMG_5403.jpg" style="width:25%">
-
-## Follow my research and contributions to science
+#### Follow my research and contributions to science
 
 [My NCBI Bibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&direction=ascending) 
 
 [Publons](publons.com/a/1543846/)
-
-## Other Interests
-
-Acrylic and watercolor painting, international travel, long-distance running, hiking, playing classical flute and
-piano, activism and volunteering, gardening

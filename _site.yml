@@ -3,22 +3,27 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Curriculum vitae"
-      href: curriculum_vitae.html
-    - text: "About"
-      href: about.html
-    - text: "NYC Restaurant Inspection Data"
-      href: flex_dashboard.html
-    - icon: fa-envelope fa-lg
+    - text: "Publications"
+      href: projects.html
+    - icon: ai-cv ai-lg
+      href: "CV/main_gibson.pdf"
+      external: true
+    - text: "Baccarelli Lab"
+      href: https://www.mailman.columbia.edu/research/laboratory-precision-environmental-biosciences
+      external: true
+    - icon: fa-envelope-o fa-lg
       href: mailto:<nicole.comfort@columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/ncomfort/
-    - icon: fa-linkedin
-      href: https://www.linkedin.com/in/nicole-comfort/
+      href: https://github.com/ncomfort
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=kAjf6OsAAAAJ
     - icon: fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Nicole_Comfort
-    - icon: fa-book-reader fa-lg
-      href: https://www.ncbi.nlm.nih.gov/sites/myncbi/1v5L4VkrjtH55/bibliography/51939750/public/?sort=date&direction=ascending
+    - icon: fa-linkedin-square fa-lg
+      href: https://www.linkedin.com/in/nicole-comfort/ 
+    - icon: fa-linkedin-square fa-lg
+      href: https://twitter.com/n_comfort 
+
 output:
   html_document:
     theme: sandstone
