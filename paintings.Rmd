@@ -19,8 +19,8 @@ Acrylic on 12x12 canvas:
 ### "Howl"
 Acrylic on 11x14 multimedia paper:
 <br>
-<img src="images/paintings/Howl_real.jpg" style="width:40%">
-<img src="images/paintings/Howl_1.jpg" style="width:40%" class="rotateimg90">
+<img src="images/paintings/Howl_real.jpg" style="width:30%">
+<img src="images/paintings/Howl_1.jpg" style="transform:rotate(90deg); width:60%">
 
 <br>
 
