@@ -5,7 +5,7 @@ title: "Nicole Comfort"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicons-1.8.6/css/academicons.min.css"/>
 
-<img src="images/NICOLE COMFORT_067C_F copy.jpg" style="width:40%; border:10px solid #B8E9B4" ALIGN = "right" HSPACE="75" VSPACE="25" />
+<img src="images/NICOLE COMFORT_067C_F copy.jpg" style="width:40%; border:5px solid" ALIGN = "right" HSPACE="75" VSPACE="25" />
 
 ### PhD Candidate
 ### Environmental Health Sciences
