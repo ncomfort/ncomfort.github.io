@@ -16,9 +16,9 @@ title: "Nicole Comfort"
 
 Nicole received a BS in neuroscience from [Northeastern University](https://cos.northeastern.edu/) in 2015. She is currently working at the [Laboratory of Precision Environmental Health](https://www.mailman.columbia.edu/research/laboratory-precision-environmental-health) under the mentorship of Dr. [Andrea Baccarelli](https://www.mailman.columbia.edu/people/our-faculty/ab4303) to study extracellular vesicles as biomarkers of environmental exposures and disease.
 
-Her research generally involves the analysis of RNA-sequencing data. Recent projects have focused on a longitudinal transcriptomic characterization of aging sciatic nerves in sarcopenia and on plasma extracellular vesicle microRNA as biomarkers of cognitive decline in a cohort of elderly men in Boston, MA. 
+Her research generally involves the analysis of RNA-sequencing data. Recent projects have included a longitudinal transcriptomic characterization of aging sciatic nerves in sarcopenia and on plasma extracellular vesicle microRNA as biomarkers of cognitive decline in a cohort of elderly men in Boston, MA. 
 
-In her spare time, Nicole enjoys walking her two dogs, playing video and board games, traveling, dining out, and painting. You can check out some of her commissioned pet portraits [here](paintings.html) 
+In her spare time, Nicole enjoys walking her two dogs, playing video and board games, traveling, dining out, and painting. You can check out some of her commissioned pet portraits [here.](paintings.html) 
 
 <br>
 
