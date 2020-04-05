@@ -13,16 +13,18 @@ navbar:
       external: true
     - icon: fa-envelope-o fa-lg
       href: mailto:<nicole.comfort@columbia.edu>
-    - icon: fa-github fa-lg
-      href: https://github.com/ncomfort
     - icon: ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=kAjf6OsAAAAJ
     - icon: ai-researchgate ai-lg
       href: https://www.researchgate.net/profile/Nicole_Comfort
     - icon: fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/nicole-comfort/ 
+    - icon: fa-github fa-lg
+      href: https://github.com/ncomfort
     - icon: fa-twitter fa-lg
       href: https://twitter.com/n_comfort 
+    - icon: ai-publons ai-lg
+      href: https://publons.com/researcher/1543846/nicole-comfort/ 
 
 output:
   html_document:
