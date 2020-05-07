@@ -22,6 +22,7 @@ Acrylic on 11x14 multimedia paper:
 <br>
 <img src="images/paintings/Howl_real.jpg" style="width:40%">
 <br>
+<br>
 <img src="images/paintings/Howl_1.jpg" style="transform:rotate(90deg); width:40%">
 
 <br>
@@ -32,6 +33,7 @@ Acrylic on 11x14 mutlimedia paper:
 <img src="images/paintings/Penny_real.png" style="width:40%">
 <img src="images/paintings/Penny_1.jpg" style="width:40%">
 
+<br>
 <br>
 
 ### "Jetta"
