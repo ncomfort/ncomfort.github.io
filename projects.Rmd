@@ -8,7 +8,7 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
-Yarychkivska, O., Shahabudhin, Z., **Comfort, N.**, Boulard, M., Bestor, T.H. BAH domains and a histone-like motif regulate DNMT1 in vivo. 2018. J. Biol. Chem., 293(50): 19466-19475. doi: 10.1074/jbc.RA118.004612. [PDF](papers/comfort-j biol chem.pdf){target="_blank"} 
+Yarychkivska, O., Shahabudhin, Z., **Comfort, N.**, Boulard, M., Bestor, T.H. BAH domains and a histone-like motif regulate DNMT1 in vivo. 2018. J. Biol. Chem., 293(50): 19466-19475. doi: 10.1074/jbc.RA118.004612. [PDF](papers/j_biol_chem.pdf){target="_blank"} 
  
 McCampbell A., Cole T., Wegener A.J., Tomassy G.S., Setnicka A., Farley B.J., Schoch K.M., Hoye M.L., Shabsovich M., Sun L., Luo Y., Zhang M., Thankamony S., Salzman D.W., Cudkowicz M., Graham D.L., Bennett C.F., Kordasiewicz H.B., Swayze E.E., Miller T.M., **Comfort N.**, Wang B., Amacker J. Antisense oligonucleotides extend survival and reverse decrement in muscle response in ALS models. 2018. J Clin Invest. 1;128(8): 3558-3567. doi: 10.1172/JCI99081. [PDF](papers/comfort-j clin invest.pdf){target="_blank"} 
  
