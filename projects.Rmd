@@ -17,7 +17,7 @@ title: "Publications"
  
 * **Comfort, N.**, Bloomquist, T.R., Shephard, A.P., Petty, C.R., Cunningham, A., Hauptman, M., Phipatanakul, W., Baccarelli A. Isolation and characterization of extracellular vesicles in saliva of children with asthma. Extracell Vesicles Circ Nucl Acids. 2021;2(1): 29-48. PMCID: PMC8340923. https://doi.org/10.20517/evcna.2020.09 
   
-* Yarychkivska, O., Shahabudhin, Z., **Comfort, N.**, Boulard, M., Bestor, T.H. BAH domains and a histone-like motif in DNA methyltransferase 1 (DNMT1) regulate de novo and maintenance methylation in vivo. J Biol Chem. 2018;293(50): 19466-19475. doi: 10.1074/jbc.RA118.004612. [PDF](papers/comfort-j biol chem.pdf){target="_blank"} 
+* Yarychkivska, O., Shahabudhin, Z., **Comfort, N.**, Boulard, M., Bestor, T.H. BAH domains and a histone-like motif in DNA methyltransferase 1 (DNMT1) regulate de novo and maintenance methylation in vivo. J Biol Chem. 2018;293(50): 19466-19475. doi: 10.1074/jbc.RA118.004612. [PDF](papers/comfort-j biol chem.pdf){target="_blank"}
   
 * McCampbell A., Cole T., Wegener A.J., Tomassy G.S., Setnicka A., Farley B.J., Schoch K.M., Hoye M.L., Shabsovich M., Sun L., Luo Y., Zhang M., **Comfort N.**, Wang B., Amacker J., Thankamony S., Salzman D.W., Cudkowicz M., Graham D.L., Bennett C.F., Kordasiewicz H.B., Swayze E.E., Miller T.M. Antisense oligonucleotides extend survival and reverse decrement in muscle response in ALS models. J Clin Invest. 2018;128(8): 3558-3567. doi: 10.1172/JCI99081. [PDF](papers/comfort-j clin invest.pdf){target="_blank"} 
   
