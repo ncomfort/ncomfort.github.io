@@ -2,6 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-[PDF of CV](CV/Comfort_CV.pdf){target="_blank"} 
+[PDF of CV](CV/Comfort_CV.pdf)
+
 
 

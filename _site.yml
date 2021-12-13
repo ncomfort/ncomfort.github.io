@@ -8,7 +8,7 @@ navbar:
     - text: "Publications"
       href: projects.html
     - text: "CV"
-      href: "CV/Comfort_CV_Feb_2020.pdf"
+      href: "CV/Comfort_CV.pdf"
       external: true
     - icon: fa-envelope-o fa-lg
       href: mailto:<nicole.comfort@columbia.edu>

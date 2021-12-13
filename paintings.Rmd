@@ -20,7 +20,7 @@ Contact me for pricing. All examples below are acrylic paintings on 12x12 canvas
 Acrylic on 11x14 multimedia paper:
 <br>
 <img src="images/paintings/Howl_real.jpg" style="width:40%">
-<img src="images/paintings/Howl.jpg" style="transform:rotate(90deg);width:40%">
+<img src="images/paintings/Howl.jpg" style="width:40%">
 
 <br>
 
@@ -54,7 +54,7 @@ Acrylic on 11x14 mutlimedia paper:
 ### "Neville"
 <br>
 <img src="images/paintings/Neville_real.jpg" style="width:40%">
-<img src="images/paintings/Neville.jpg" style="transform:rotate(90deg);width:40%">
+<img src="images/paintings/Neville.jpg" style="width:40%">
 
 
 <br>
