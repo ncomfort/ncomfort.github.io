@@ -7,13 +7,12 @@ title: "Pet Portraits"
 <br>
 
 ## Example Work
-Contact me for pricing.
+Contact me for pricing. All examples below are acrylic paintings on 12x12 canvas unless otherwise noted.
 
 ### "Rae"
-Acrylic on 12x12 canvas:
 <br>
 <img src="images/paintings/Rae_real.jpg" style="width:40%">
-<img src="images/paintings/Rae_1.jpg" style="width:40%">
+<img src="images/paintings/Rae.jpg" style="width:40%">
 
 <br>
 
@@ -21,9 +20,7 @@ Acrylic on 12x12 canvas:
 Acrylic on 11x14 multimedia paper:
 <br>
 <img src="images/paintings/Howl_real.jpg" style="width:40%">
-<br>
-<br>
-<img src="images/paintings/Howl_1.jpg" style="transform:rotate(90deg); width:40%">
+<img src="images/paintings/Howl.jpg" style="width:40%">
 
 <br>
 
@@ -31,15 +28,33 @@ Acrylic on 11x14 multimedia paper:
 Acrylic on 11x14 mutlimedia paper: 
 <br>
 <img src="images/paintings/Penny_real.png" style="width:40%">
-<img src="images/paintings/Penny_1.jpg" style="width:40%">
+<img src="images/paintings/Penny.jpg" style="width:40%">
 
 <br>
+
+### "Chet"
 <br>
+<img src="images/paintings/Chet_real.jpg" style="width:40%">
+<img src="images/paintings/Chet-2.jpg" style="width:40%">
 
 ### "Jetta"
-Acrylic on 12x12 canvas:
 <br>
 <img src="images/paintings/Jetta_real.jpg" style="width:40%">
 <img src="images/paintings/Jetta.jpg" style="width:40%">
+
+<br>
+
+### "Tukka" 
+<br>
+<img src="images/paintings/Tukka_real.jpg" style="width:40%">
+<img src="images/paintings/Tukka.jpg" style="width:40%">
+
+<br>
+
+### "Neville"
+<br>
+<img src="images/paintings/Neville_real.jpg" style="width:40%">
+<img src="images/paintings/Neville.jpg" style="width:40%">
+
 
 <br>

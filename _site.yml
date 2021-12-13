@@ -10,9 +10,6 @@ navbar:
     - text: "CV"
       href: "CV/Comfort_CV_Feb_2020.pdf"
       external: true
-    - text: "Baccarelli Lab"
-      href: https://www.mailman.columbia.edu/research/laboratory-precision-environmental-biosciences
-      external: true
     - icon: fa-envelope-o fa-lg
       href: mailto:<nicole.comfort@columbia.edu>
     - icon: ai-google-scholar ai-lg

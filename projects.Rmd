@@ -8,14 +8,61 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
-Yarychkivska, O., Shahabudhin, Z., **Comfort, N.**, Boulard, M., Bestor, T.H. BAH domains and a histone-like motif regulate DNMT1 in vivo. 2018. J. Biol. Chem., 293(50): 19466-19475. doi: 10.1074/jbc.RA118.004612. [PDF](papers/comfort-j biol chem.pdf){target="_blank"} 
+* **Comfort, N.** Addressing Racial Disparities in NIH Funding. Journal of Science Policy and Governance. 2021;18(4). https://doi.org/10.38126/JSPG180408
  
-McCampbell A., Cole T., Wegener A.J., Tomassy G.S., Setnicka A., Farley B.J., Schoch K.M., Hoye M.L., Shabsovich M., Sun L., Luo Y., Zhang M., Thankamony S., Salzman D.W., Cudkowicz M., Graham D.L., Bennett C.F., Kordasiewicz H.B., Swayze E.E., Miller T.M., **Comfort N.**, Wang B., Amacker J. Antisense oligonucleotides extend survival and reverse decrement in muscle response in ALS models. 2018. J Clin Invest. 1;128(8): 3558-3567. doi: 10.1172/JCI99081. [PDF](papers/comfort-j clin invest.pdf){target="_blank"} 
+* Gade, M.+, **Comfort, N.+**, Re, D.B. Sex-specific neurotoxic effects of heavy metal pollutants: epidemiological, experimental evidence and candidate mechanisms. Environmental Research. 2021;201(111558). PMCID: PMC8478794. https://doi.org/10.1016/j.envres.2021.111558
++Equal contribution. 
  
-**Comfort, N.**, Re, D.B. Sex-specific neurotoxic effects of organophosphate pesticides across the life course. 2017. Curr Environ Health Rep, 4(4): 392-404. [PDF](papers/comfort-curr env hlth rpt.pdf){target="_blank"} 
+* **Comfort, N.**, Cai, K., Bloomquist, T.R., Strait, M.D., Ferrante Jr., A.W., Baccarelli, A.A. Nanoparticle tracking analysis for the quantification and size determination of extracellular vesicles. Journal of Visualized Experiments. 2021;Mar 28 (169). PMCID: PMC8243380. https://doi.org/10.3791/62447 
  
-Qiang, L., Rao, A.N., Mostoslavsky, G., James, M.F., **Comfort, N.**, Sullivan, K., Baas, P.W. Reprogramming cells from Gulf War veterans into neurons to study Gulf War Illness. 2017. Neurology, 88(20): 1968-1975. [PDF](papers/comfort-neuurology.pdf){target="_blank"} 
+* **Comfort, N.**, Bloomquist, T.R., Shephard, A.P., Petty, C.R., Cunningham, A., Hauptman, M., Phipatanakul, W., Baccarelli A. Isolation and characterization of extracellular vesicles in saliva of children with asthma. Extracell Vesicles Circ Nucl Acids. 2021;2(1): 29-48. PMCID: PMC8340923. https://doi.org/10.20517/evcna.2020.09 
+  
+* Yarychkivska, O., Shahabudhin, Z., **Comfort, N.**, Boulard, M., Bestor, T.H. BAH domains and a histone-like motif in DNA methyltransferase 1 (DNMT1) regulate de novo and maintenance methylation in vivo. J Biol Chem. 2018;293(50): 19466-19475. doi: 10.1074/jbc.RA118.004612. [PDF](papers/comfort-j biol chem.pdf){target="_blank"} 
+  
+* McCampbell A., Cole T., Wegener A.J., Tomassy G.S., Setnicka A., Farley B.J., Schoch K.M., Hoye M.L., Shabsovich M., Sun L., Luo Y., Zhang M., **Comfort N.**, Wang B., Amacker J., Thankamony S., Salzman D.W., Cudkowicz M., Graham D.L., Bennett C.F., Kordasiewicz H.B., Swayze E.E., Miller T.M. Antisense oligonucleotides extend survival and reverse decrement in muscle response in ALS models. J Clin Invest. 2018;128(8): 3558-3567. doi: 10.1172/JCI99081. [PDF](papers/comfort-j clin invest.pdf){target="_blank"} 
+  
+* **Comfort, N.**, Re, D.B. Sex-specific neurotoxic effects of organophosphate pesticides across the life course. Curr Environ Health Rep. 2017;4(4): 392-404. doi: 10.1007/s40572-017-0171-y. [PDF](papers/comfort-curr env hlth rpt.pdf){target="_blank"} 
+  
+* Qiang, L., Rao, A.N., Mostoslavsky, G., James, M.F., **Comfort, N.**, Sullivan, K., Baas, P.W. Reprogramming cells from Gulf War veterans into neurons to study Gulf War Illness. Neurology. 2017;88(20): 1968-1975. doi: 10.1212/WNL.0000000000003938. [PDF](papers/comfort-neuurology.pdf){target="_blank"} 
 
 Click [here](https://www.ncbi.nlm.nih.gov/myncbi/1v5L4VkrjtH55/bibliography/public/) for a full bibliography. 
 
 <br>
+
+## Manuscripts submitted/under review 
+
+* Comfort, N., Wu, H., De Hoff, P., Vuppala, A., Vokonas, P.S., Spiro, A., Weisskopf, M., Coull, B.A., Laurent, L.C., Baccarelli, A.A., Schwartz, J. Extracellular microRNA and cognitive function in a prospective cohort of older men: the VA Normative Aging Study. Nature Communications, submitted December 2021.
+
+## Manuscripts in progress 
+
+* Comfort, N., et al. Transcriptomic analysis of aging mouse sciatic nerve reveals early pathways leading to sarcopenia. Manuscript in preparation. 
+
+## Abstracts 
+
+* Nicole Comfort, Madeleine Strait, Brianna Saglimbeni, Roheeni Saxena, Teresa Obis, Neil A. Shneider, Marianthi-Anna Kioumourtzoglou, Diane B. Re. Central nervous system (CNS)-derived extracellular vesicles (EVs) as novel biomarkers for environmental exposure and disease progression in ALS. 33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). New York, NY, USA. August 2021.
+
+* Nicole Comfort, Meethila Gade, Madeleine Strait, Shingo Kariya, Diane Re. Transcriptomic analysis of aging mouse sciatic nerve reveals early pathways leading to sarcopenia. International Congress on Neuromuscular Diseases (ICNMD), May 2021.
+
+* Mahdieh Danesh Yazdi, Feiby Nassan, Anna Kosheleva, Qian Di, Weeberb João Requia, Yaguang Wei, Nicole T. Comfort, Haotian Wu, Andrea Baccarelli, Joel D. Schwartz. The effects of short- and long-term exposures to air pollution on microRNA in participants of the Normative Aging Study (NAS). 33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). New York, NY, USA. August 2021.
+
+* Nicole Comfort, Tessa Bloomquist, Amparito Cunningham, Marissa Hauptman, Wanda Phipatanakul, Andrea Baccarelli. Isolation and characterization of extracellular vesicles in saliva of children with asthma. American Society for Exosomes and Microvesicles 2020 Annual Meeting. November 2020.
+
+* Nicole Comfort, Cara Smith, Steven Chillrud, Qiang Yang, Andrea Baccarelli, Darby Jack. Extracellular vesicles in saliva as biomarkers of exposure and effect: a feasibility pilot in the context of the New York City Biking and Breathing Study. 31st Annual Conference of the International Society for Environmental Epidemiology (ISEE). Utrecht, The Netherlands. August 2019.
+
+* Nicole Comfort, Wanda Phipatanakul, Andrea Baccarelli. Saliva extracellular vesicle (EV) microRNA and asthma severity in urban school children. Academic Pediatric Association (APA) Environmental Health Scholars Retreat. Providence, RI. October 2018.
+
+* Teresa Obis, Meredith Loth, Agnese Ramirez, Samantha Merwin, Beatriz Blanco, Sara Guariglia, Vesna Ilievski, Silvia Tamanini, Nicole Comfort, Yanelli Nunez, Marfred E. Munoz Umanes, Mary Gamble, Vernice Jackson-Lewis, Shingo Kariya, Stefania Corti, Tomas Guilarte, and Diane B. Re. PK11195, a ligand of the translocator protein 18KDa, improves grip strength, motor performance, and muscle innervation at early but not late disease stages in the amyotrophic lateral sclerosis mutant superoxide dismutase 1 mouse model. Program No. 670.10. 2017 Neuroscience Meeting Planner. Washington, DC: Society for Neuroscience, 2017.
+
+* Brandon J. Farley, Nicole T. Comfort, Jessica L. Goodman, Anne M. Kuszpit, Tracy Cole, Holly Kordasiewicz, Eric Swayze, Alexander McCampbell, and Marion Wittmann. Antisense oligonucleotide treatment protects against neuromuscular denervation in the SOD1 G93A mouse model of ALS as evaluated by a pre-symptomatic electrophysiological measure. Program No. 69.18. 2015 Neuroscience Meeting Planner. Chicago, IL: Society for Neuroscience, 2015. 
+
+* M. H. Histed, N. T. Comfort, R. T. Ohman, A. R. Perillo, J. H. R. Maunsell. Linear integration for perceptual behavior in mouse primary auditory and visual cortex. Program No. 530.05. 2014 Neuroscience Meeting Planner. Washington, DC: Society for Neuroscience, 2014. 
+
+
+
+
+
+
+
+
+
+

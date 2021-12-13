@@ -1,5 +1,5 @@
 ---
-title: "Nicole Comfort"
+title: "Nicole Comfort, Ph.D."
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -7,18 +7,18 @@ title: "Nicole Comfort"
 
 <img src="images/NICOLE COMFORT_067C_F copy.jpg" style="width:40%; border:5px solid" ALIGN="right" HSPACE="75" VSPACE="25" />
 
-### PhD Candidate
+### Postdoctoral Research Scientist
 ### Environmental Health Sciences
 #### Mailman School of Public Health
 #### Columbia University
 
 <br> 
 
-Nicole received a BS in neuroscience from [Northeastern University](https://cos.northeastern.edu/) in 2015. After joining the [Climate Reality Leadership Corps](https://climaterealityproject.org/training), Nicole decided she wanted to align her neuroscience research interests with her commitment to advocating for environmental and public health. She is currently working at the [Laboratory of Precision Environmental Health](https://www.mailman.columbia.edu/research/laboratory-precision-environmental-health) under the mentorship of Dr. [Andrea Baccarelli](https://www.mailman.columbia.edu/people/our-faculty/ab4303) to study extracellular vesicles as biomarkers of environmental exposures and disease.
+Dr. Comfort received her B.S. in neuroscience from [Northeastern University](https://cos.northeastern.edu/) and her Ph.D. from Columbia University in the [Laboratory of Precision Environmental Health](https://www.mailman.columbia.edu/research/laboratory-precision-environmental-health) under the mentorship of Dr. [Andrea Baccarelli](https://www.mailman.columbia.edu/people/our-faculty/ab4303). Her dissertation work focused on the study of [extracellular vesicles](https://www.nature.com/articles/nrm.2017.125) as biomarkers of environmental exposures and disease. 
 
-Her research generally involves the analysis of RNA-sequencing data. Recent projects have included a longitudinal transcriptomic characterization of aging sciatic nerves in sarcopenia and an analysis of plasma extracellular vesicle microRNA as biomarkers of cognitive decline in a cohort of elderly men in Boston, MA. 
+Building on this work, Nicole is currently completing her postdoctoral training under the mentorship of Dr. [Diane Re](https://www.publichealth.columbia.edu/people/our-faculty/dr2240), studying central nervous system-derived extracellular vesicles as novel biomarkers of metal exposure and disease progression in the context of the neurodegenerative disorder amyotrophic lateral sclerosis (ALS). 
 
-In her spare time, Nicole enjoys walking her two dogs, playing video and board games, traveling, dining out, practicing yoga, and painting. You can check out some of her commissioned pet portraits [here.](paintings.html) 
+In her spare time, Nicole enjoys walking her two dogs, playing video and board games, traveling, dining out, practicing yoga, and painting. You can check out some of her commissioned pet portraits [here.](paintings.html) She is also passionate about advocating for environmental and public health and promoting STEM among under-represented groups. 
 
 <br>
 
