@@ -10,6 +10,8 @@ navbar:
     - text: "CV"
       href: "CV/Comfort_CV.pdf"
       external: true
+    - text: "Teaching Portfolio"
+      href: http://nicolecomfort.sandbox.library.columbia.edu 
     - icon: fa-envelope-o fa-lg
       href: mailto:<nicole.comfort@columbia.edu>
     - icon: ai-google-scholar ai-lg
