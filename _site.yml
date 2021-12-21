@@ -8,7 +8,7 @@ navbar:
     - text: "Publications"
       href: projects.html
     - text: "CV"
-      href: "CV/Comfort_CV.pdf"
+      href: "CV/Comfort_CV.pdf" 
       external: true
     - text: "Teaching Portfolio"
       href: http://nicolecomfort.sandbox.library.columbia.edu 
